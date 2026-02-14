@@ -1,37 +1,17 @@
 Hi 👋, I'm Meet Patel
 =================================
 
-✨ Passionate about AI & Machine Learning | Building Intelligent Systems
+✨ Exploring Artificial Intelligence & Intelligent System Design  
 
-I'm an enthusiastic and driven AI/ML developer with a strong focus on developing real-time intelligent systems using computer vision, deep learning, and multimodal AI. Currently pursuing M.Tech in Computer Science and Engineering, I enjoy solving complex problems and building scalable AI-driven solutions.
+I am a motivated AI/ML engineer with a strong interest in developing real-world intelligent systems. My work centers around computer vision, deep learning, and multimodal AI, particularly in real-time environments. As a postgraduate student in Computer Science, I am passionate about designing scalable and efficient solutions that connect research concepts with practical applications.
 
-• 🌱 Always Learning: Continuously exploring new AI frameworks, Vision-Language Models, and streaming architectures to stay ahead in the evolving AI landscape.
+• 🌿 **Continuous Growth:** Actively exploring emerging AI frameworks & technologies, Models to stay aligned with evolving technologies.  
 
-• 🔍 Detail-Oriented: I believe precision and thoughtful system design are key to building efficient and reliable AI applications.
+• 🎯 **Precision-Focused:** Strong emphasis on structured system design, performance optimization, and building reliable AI-driven applications.  
 
-• 🤝 Collaborative: Comfortable working in team environments, contributing to research-driven and application-based AI projects.
+• 🤝 **Team-Oriented:** Thrive in collaborative environments where knowledge sharing and diverse perspectives lead to impactful solutions.  
 
-• 💡 Innovative Problem Solver: Experienced in designing end-to-end AI systems including real-time video analytics, multimodal pipelines, and agent-based simulations.
-
----
-
-## 💼 Experience
-
-**AI/ML Intern – Marwiz Tech Pvt. Ltd.**
-- Working on real-time computer vision solutions using live camera streams (RTSP, HTTP).
-- Designing and implementing Video Management Systems (VMS).
-- Integrating Whisper (STT), TTS frameworks, and Gemini-based LLM services.
-- Researching and experimenting with Vision-Language Models.
-
----
-
-## 🚀 Projects
-
-• Human-Animal Detector using CLIP, BLIP & Flan-T5 (Vision-Language comparison)  
-• MIS-AGENT – Fake news propagation simulation using CrewAI  
-• Abnormal Driving Detection using spatio-temporal clustering  
-• Video-based Athletic Readiness Assessment using MediaPipe  
-• Transformer-based Image Captioning using GPT-2  
+• 🚀 **End-to-End Builder:** Experienced in developing complete AI pipelines — from experimentation and model comparison to deployment and system integration.  
 
 ---
 
@@ -39,17 +19,26 @@ I'm an enthusiastic and driven AI/ML developer with a strong focus on developing
 
 Python | C | PyTorch | TensorFlow | Scikit-learn | OpenCV  
 YOLO | MediaPipe | FastAPI | Streamlit  
-MongoDB | MySQL | CrewAI | HuggingFace  
+MongoDB | MySQL | CrewAI | HuggingFace
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect With Me
 
-GitHub: https://github.com/meet3264  
-LeetCode: https://leetcode.com/u/meetbpatel3264/  
-HackerRank: https://www.hackerrank.com/profile/meetbpatel3264  
+<p align="left">
+  <a href="https://www.linkedin.com/in/meetbpatel3264" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  
+  <a href="mailto:meetbpatel3264@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+</p>
 
 ---
 
-📫 Email: meet.p7@ahduni.edu.in  
+## 🌐 Portfolio
+
+[Click here to visit my portfolio website](https://meets-portfoliosite.vercel.app/)
+
 📍 Ahmedabad, India
